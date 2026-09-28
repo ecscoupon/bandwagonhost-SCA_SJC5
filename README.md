@@ -118,7 +118,7 @@ Link speed: 2.5 Gigabit
 
 <img src="https://github.com/ecscoupon/pictures/blob/main/bwgshjceping.png" alt="硬件质量检测报告">
 
-**IPv4大包回程路由测试：** 电信全国各地区延迟稳定在 127~179ms，全程 0 丢包。 联通大部分地区 CN2 GIA 直连，延迟 144~200ms，仅少数省份出现 163 转 4837 跳转，贵州存在 18% 丢包，北京 8% 丢包。 移动同样 CN2 GIA 回程，延迟 133~222ms，部分省份有少量丢包（最高 16%）。 整体基线很不错，大部分省份低延迟零丢包，仅个别地区有轻微丢包。
+**IPv4大包回程路由测试：** 电信全国各地区延迟稳定在 180ms以下，全程 0 丢包。 联通大部分地区 CN2 GIA 直连，延迟 144 ~ 200ms，仅少数省份出现 163 转 4837 跳转，贵州存在 18% 丢包，北京 8% 丢包。 移动同样 CN2 GIA 回程，延迟 133 ~ 222ms，部分省份有少量丢包（最高 16%）。 整体基线很不错，大部分省份低延迟零丢包，仅个别地区有轻微丢包。
 
 <img src="https://github.com/ecscoupon/pictures/blob/main/bwgshjcepin.png" alt="IPv4大包回程路由测试">
 
