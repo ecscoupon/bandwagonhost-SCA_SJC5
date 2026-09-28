@@ -7,7 +7,7 @@
 ## 关于搬瓦工BandwagonHost
 
 搬瓦工是加拿大 IT7 旗下的海外主机商，其VPS采用 KVM 虚拟化、Raid10 SSD，带宽 1Gbps 起。机房覆盖洛杉矶、香港、日本、荷兰等，支持 KiwiVM 面板一键切换机房，有 CN2 GT、CN2 GIA等多种优化线路。优势是线路选择丰富、稳定性好、速度快，面板功能齐全；缺点是工单响应偏慢，优质CN2 GIA套餐价格偏高。
-​
+
 **<a href="https://bwh89.net/aff.php?aff=71768" target="_blank" rel="nofollow noopener noreferrer">搬瓦工官网：点此直达</a>**
 
 <img width="688" height="536" src="https://github.com/ecscoupon/pictures/blob/main/bww.png" alt="搬瓦工官网">
